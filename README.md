@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-01-24 11:00:00）
+## 免费订阅更新时间（2026-01-24 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?encryption=none&security=none&type=ws&host=cnmfangbinxing-nmsl.sbfangbinxing.workers.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?encryption=none&security=none&type=ws&host=cnmfangbinxing-nmsl.sbfangbinxing.workers.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn5.suio.me:443?encryption=none&security=tls&sni=plcdn5.suio.me&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>
+> vmess://eyJ2IjoiMiIsInBzIjoiRlLms5Xlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@162.159.46.48:443?encryption=none&security=tls&sni=snip.zrfs.indevs.in&type=ws&host=snip.zrfs.indevs.in&path=/?ed=2560#GB英国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTciLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJBWkVSQi5ORVQiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.224.5:443?encryption=none&security=tls&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/x-aniu/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@172.67.73.201:443?encryption=none&security=tls&sni=snip.zrf.hidns.co&type=ws&host=snip.zrf.hidns.co&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
