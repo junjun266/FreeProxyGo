@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-02-06 11:00:00）
+## 免费订阅更新时间（2026-02-06 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://c805b05e-339d-40e0-8787-432d97a27345@v3.dabache.top:2083?encryption=none&security=tls&sni=hajames.amirconfigpaanelllll.com&type=ws&host=hajames.amirconfigpaanelllll.com&path=/#CA加拿大(ProxyGo免费节点分享)<br>trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BpBg.ANGusWeN.top&alpn=http/1.1&type=ws&host=BpBg.ANGusWeN.top&path=/eyJqdW5rIjoiTUp4VFNoMTRLbSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0=?ed=2560#CA加拿大(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#NL荷兰(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.7.240.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2#GB英国(ProxyGo免费节点分享)<br>trojan://T9BpZIVMNv@v3.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=/amd#US美国(ProxyGo免费节点分享)<br>vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@ggghju.131.pp.ua:80?encryption=none&security=none&sni=GgGhJU.131.pp.uA&type=ws&host=GggHJU.131.Pp.Ua&path=/FHqOdFbetLpTGA5AqzZ2Mj#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://98b419ef-83a2-4d1b-a23d-566b7f24477b@mmmkiio9.taipei101.indevs.in:80?encryption=none&security=none&type=ws&host=mMmKiIo9.tAipeI101.IndEvs.in&path=/FHqOdFbetLpTGA5AqzZ2Mj#HK中国香港(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
