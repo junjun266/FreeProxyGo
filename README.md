@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-03-09 09:00:00）
+## 免费订阅更新时间（2026-03-09 10:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@121.161.114.201:11090?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@121.140.226.21:13382?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@121.161.114.201:16662?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?encryption=none&security=tls&sni=bank.alaska-tigr.info&type=ws&host=bank.alaska-tigr.info&path=/love#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@121.161.114.201:11213?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#JP日本(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@183.109.80.50:12000?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#JP日本(ProxyGo免费节点分享)<br>
+> vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@209.146.114.142:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@23.185.168.35:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUQUJSSVouTkVUIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxP2VkPTI1NjAiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@112.167.47.83:23297?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@154.17.24.183:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@131.143.251.45:8443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
