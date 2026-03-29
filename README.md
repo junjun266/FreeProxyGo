@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-03-29 10:00:00）
+## 免费订阅更新时间（2026-03-29 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram🇨🇳@WangCai2/?ed=2560#US美国(ProxyGo免费节点分享)<br>vless://3b034275-27f8-437d-9ac0-5982708ae143@192.200.160.20:443?encryption=none&security=tls&sni=639073677243249982.camry-perma.info&alpn=http/1.1&type=ws&host=639073677243249982.camry-perma.info&path=/ferhbiws?ed=2560#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3d3cuYWxpYmFiYS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/#US美国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://dcda262b-0d36-4032-edd9-da4fd2d53711@162.159.45.202:8443?encryption=none&security=tls&type=ws&host=zoro.jakesolo.eu.org&path=/ws#HK中国香港(ProxyGo免费节点分享)<br>vless://671309af-9a2f-4f36-8a64-9112b6129e9d@45.77.100.204:443?encryption=none&security=tls&sni=chedan.jueson.de5.net&type=ws&host=chedan.jueson.de5.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳@WangCai2=#KR韩国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
