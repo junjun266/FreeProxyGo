@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-03-30 10:00:00）
+## 免费订阅更新时间（2026-03-30 11:00:12）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/#US美国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://dcda262b-0d36-4032-edd9-da4fd2d53711@162.159.45.202:8443?encryption=none&security=tls&type=ws&host=zoro.jakesolo.eu.org&path=/ws#HK中国香港(ProxyGo免费节点分享)<br>vless://671309af-9a2f-4f36-8a64-9112b6129e9d@45.77.100.204:443?encryption=none&security=tls&sni=chedan.jueson.de5.net&type=ws&host=chedan.jueson.de5.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳@WangCai2=#KR韩国(ProxyGo免费节点分享)<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.107.164.217:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.216:443?encryption=none&security=tls&sni=snippet.danfeng.theworkpc.com&type=ws&host=snippet.danfeng.theworkpc.com&path=/danfeng#US美国(ProxyGo免费节点分享)<br>trojan://trojan@59.20.121.139:29999?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
