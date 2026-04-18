@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-18 10:00:01）
+## 免费订阅更新时间（2026-04-18 10:13:24）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳@WangCai2#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:10021#GB英国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiUlXkv4TnvZfmlq8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJBWkVSQi5ORVQiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#GB英国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA==@45e755.shlswe.xyz:28308#GB英国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA==@45e755.shlswe.xyz:28118#GB英国(ProxyGo免费节点分享)<br>
+> trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&security=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet#DE德国(ProxyGo免费节点分享)<br>vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing3.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing3.zqjsqapi.com&type=ws&host=dongjing3.zqjsqapi.com&path=/proxy#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
