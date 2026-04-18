@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-18 12:00:00）
+## 免费订阅更新时间（2026-04-18 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&security=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet#DE德国(ProxyGo免费节点分享)<br>vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing3.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing3.zqjsqapi.com&type=ws&host=dongjing3.zqjsqapi.com&path=/proxy#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>
+> vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&security=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=//#DE德国(ProxyGo免费节点分享)<br>vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&security=none&type=ws&host=britain.xydcqd.workers.dev&path=/@WireXnet#DE德国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA==@45e755.shlswe.xyz:28118#GB英国(ProxyGo免费节点分享)<br>vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@falankefu1.zqjsqapi.com:443?encryption=none&security=tls&sni=falankefu1.zqjsqapi.com&type=ws&path=/proxy#GB英国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
