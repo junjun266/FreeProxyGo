@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-21 11:00:00）
+## 免费订阅更新时间（2026-04-21 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://1234567890@176.96.137.96:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@91.149.223.184:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>trojan://1234567890@159.195.39.241:2053?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InNuaXBwZXRzLmtraWkuZXUub3JnIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>trojan://1234567890@178.104.79.228:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>
+> trojan://1234567890@144.31.62.181:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLz9lZD0yMDQ4SGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vmess://eyJ2IjoiMiIsInBzIjoiRlLms5Xlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJBWkVSQi5ORVQiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>trojan://1234567890@178.104.15.200:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@167.17.182.98:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@185.219.84.221:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
