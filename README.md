@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-26 10:00:00）
+## 免费订阅更新时间（2026-04-26 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://1234567890@144.31.85.72:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@95.164.123.131:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@167.17.182.98:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>trojan://1234567890@152.53.228.86:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#US美国(ProxyGo免费节点分享)<br>trojan://1234567890@109.120.134.104:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw#US美国(ProxyGo免费节点分享)<br>
+> trojan://1234567890@152.53.118.28:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>trojan://1234567890@159.195.44.151:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#US美国(ProxyGo免费节点分享)<br>trojan://1234567890@109.120.134.104:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#US美国(ProxyGo免费节点分享)<br>trojan://1234567890@89.169.9.177:2053?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.148.58.153:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
