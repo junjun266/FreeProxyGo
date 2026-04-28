@@ -1,6 +1,6 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-28 23:00:00）
+## 免费订阅更新时间（2026-04-29 00:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
@@ -12,7 +12,7 @@
 
 ## 订阅地址：
 
-> https://sub.proxygo.org/v2ray.php?key=da43ab0d00ced8482e442845cae7258d
+> https://sub.proxygo.org/v2ray.php?key=1a720a52c59c370afa93c753b9b02565
 > 
 
 ## **Clash、SS等客户端订阅地址一键转换：**
