@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-29 10:00:00）
+## 免费订阅更新时间（2026-04-29 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.135.137.79:443?encryption=none&security=tls&sni=jamuur.joss.jak.biz.id&type=ws&host=jamuur.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.218.213:443?encryption=none&security=tls&sni=jamuur.joss.jak.biz.id&type=ws&host=jamuur.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.58.68.4:443?encryption=none&security=tls&sni=support.zoom.us.joss.jak.biz.id&type=ws&host=support.zoom.us.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/NL?ed=2560&https://t.me/WangCai2🇨🇳#NL荷兰(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.246.217.55:443?encryption=none&security=tls&sni=jamuur.joss.jak.biz.id&type=ws&host=jamuur.joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/DE?ed=2560&https://t.me/WangCai2🇨🇳#RU俄罗斯(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206Zjk3Y2Y3ZDk5ZA==@45e755.shlswe.xyz:28222#HK中国香港(ProxyGo免费节点分享)<br>vless://44dcabe5-fd97-4598-928e-3669b51b03fc@99.88.80.233:48500?encryption=none&security=none&type=ws&path=/#US美国(ProxyGo免费节点分享)<br>
+> vless://981fca81-5be1-41f8-ac9b-d138e8109943@92.53.189.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@77.105.163.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#SG新加坡(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@94.140.0.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@141.11.202.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#FR法国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.153.7.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
