@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-04-30 10:00:00）
+## 免费订阅更新时间（2026-04-30 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://981fca81-5be1-41f8-ac9b-d138e8109943@92.53.189.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@77.105.163.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#SG新加坡(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@94.140.0.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@34.136.119.149:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@141.11.202.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#FR法国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.153.7.231:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#(ProxyGo免费节点分享)<br>
+> vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&type=ws&host=epge.muarua.filegear-sg.me&path=/#HK中国香港(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxMDMuMTgxLjE2NC4xNDUiLCJwb3J0IjoiNTE1NTYiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://00000000-0000-4000-8000-000000000000@110.35.234.200:30016?encryption=none&security=tls&sni=rcv3tz9brscasef8i.sate.qzz.io&type=ws&host=rcv3tz9brscasef8i.sate.qzz.io&path=/@Marisa_kristi#KR韩国(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@210.103.67.11:32312?encryption=none&security=tls&sni=eiti60o44la.bsld.de5.net&type=ws&host=eiti60o44la.bsld.de5.net&path=/@Marisa_kristifp=chrome#KR韩国(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@59.24.2.248:30032?encryption=none&security=tls&sni=eiti60o44la.bsld.de5.net&type=ws&host=eiti60o44la.bsld.de5.net&path=/@Marisa_kristifp=chrome#KR韩国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
