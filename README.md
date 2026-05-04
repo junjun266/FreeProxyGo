@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-04 11:00:00）
+## 免费订阅更新时间（2026-05-04 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.65.79.122:2053?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.211.35:443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.63.211:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.187.6:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.5.72:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.63.206:2053?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#(ProxyGo免费节点分享)<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.42.61.69:8443?encryption=none&security=tls&sni=sni.111000.dns.army&type=ws&host=sni.111000.dns.army&path=/?ed=2560&https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJiYmJiYmJiYmIuMjIyNzY5Lnh5eiIsInBhdGgiOiIvZjZ0YU9NY09TWmI5VFBSIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>
 > 
 
 ## 订阅地址：
