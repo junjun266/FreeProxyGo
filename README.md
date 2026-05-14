@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-14 18:00:00）
+## 免费订阅更新时间（2026-05-14 19:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYWRzLng1LnJ1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://06b65903-406d-4a41-8463-6fd5c0ee7798@20.6.12.145:443?encryption=none&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#SG新加坡(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.248.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime26.workers.dev&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime26.workers.dev&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳#US美国(ProxyGo免费节点分享)<br>vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.66:2053?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYWRzLng1LnJ1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://ae0dd58e-e222-40bf-84ae-365a97532737@144.79.11.202:8443?encryption=none&security=tls&sni=pagescm.freen22.cc.cd&type=ws&host=pagescm.freen22.cc.cd&path=/detail/go#HK中国香港(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>vless://ae0dd58e-e222-40bf-84ae-365a97532737@220.92.53.205:35342?encryption=none&security=tls&sni=pagescm.freen27.cc.cd&type=ws&host=pagescm.freen27.cc.cd&path=/lives#KR韩国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
