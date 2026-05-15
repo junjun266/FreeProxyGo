@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-15 10:00:02）
+## 免费订阅更新时间（2026-05-15 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYWRzLng1LnJ1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vless://ae0dd58e-e222-40bf-84ae-365a97532737@144.79.11.202:8443?encryption=none&security=tls&sni=pagescm.freen22.cc.cd&type=ws&host=pagescm.freen22.cc.cd&path=/detail/go#HK中国香港(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>vless://ae0dd58e-e222-40bf-84ae-365a97532737@220.92.53.205:35342?encryption=none&security=tls&sni=pagescm.freen27.cc.cd&type=ws&host=pagescm.freen27.cc.cd&path=/lives#KR韩国(ProxyGo免费节点分享)<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYWRzLng1LnJ1IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>vless://981fca81-5be1-41f8-ac9b-d138e8109943@141.11.43.124:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#SG新加坡(ProxyGo免费节点分享)<br>vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.84.95.77:443?encryption=none&security=tls&sni=gogo.wknm.dpdns.org&type=ws&host=gogo.wknm.dpdns.org&path=/#SG新加坡(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
