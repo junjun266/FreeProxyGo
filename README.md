@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-21 10:00:00）
+## 免费订阅更新时间（2026-05-21 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#NL荷兰(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#NL荷兰(ProxyGo免费节点分享)<br>vless://06b65903-406d-4a41-8463-6fd5c0ee7798@20.6.12.145:443?encryption=none&security=tls&sni=sni.skylee4.cloudns.ch&type=ws&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#SG新加坡(ProxyGo免费节点分享)<br>
+> vless://00000000-0000-4000-8000-000000000000@89.23.108.19:4433?encryption=none&security=tls&sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristi#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#NL荷兰(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#NL荷兰(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
