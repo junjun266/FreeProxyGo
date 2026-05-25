@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-25 09:00:02）
+## 免费订阅更新时间（2026-05-25 10:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://26524cce-d514-4014-a426-365fb266a14d@104.26.12.27:2053?encryption=none&security=tls&sni=mz0tgmxz.user-api.chinav.eu.org&type=ws&host=mz0tgmxz.user-api.chinav.eu.org&path=/danfeng?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg==@203.32.26.24:20129#US美国(ProxyGo免费节点分享)<br>vless://26524cce-d514-4014-a426-365fb266a14d@go2.lenovo.com:2053?encryption=none&security=tls&sni=nai3.api-gateway-01.chinat.indevs.in&type=ws&host=nai3.api-gateway-01.chinat.indevs.in&path=/danfeng?ed=2560#SG新加坡(ProxyGo免费节点分享)<br>trojan://I0shjZ@xxxmg1.xiaoliebao.club:4433?security=tls&sni=xxxmg1.xiaoliebao.club&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InYxMC5oZGFjZC5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?encryption=none&security=tls&sni=pagescm.freen15.cc.cd&type=ws&host=pagescm.freen15.cc.cd&path=/album/bt#US美国(ProxyGo免费节点分享)<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMW9GWTVkc2toRnVJOFBOYlNBMzVz@195.133.2.2:34898#DE德国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@202.85.76.170:13223#FR法国(ProxyGo免费节点分享)<br>vless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?encryption=none&security=tls&sni=mz0tgmxz.user-api.chinav.eu.org&type=ws&host=mz0tgmxz.user-api.chinav.eu.org&path=/danfeng?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@162.141.130.233:24443?encryption=none&security=tls&sni=guslef2w8oz12wv.ymj.xx.kg&type=ws&host=guslef2w8oz12wv.ymj.xx.kg&path=/@Marisa_kristi#JP日本(ProxyGo免费节点分享)<br>vless://73bcd72f-9545-4cb8-8daf-7d004501880d@210.156.180.102:16090?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/#JP日本(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
