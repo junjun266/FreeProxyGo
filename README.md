@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-05-26 09:00:00）
+## 免费订阅更新时间（2026-05-26 10:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMW9GWTVkc2toRnVJOFBOYlNBMzVz@195.133.2.2:34898#DE德国(ProxyGo免费节点分享)<br>ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@202.85.76.170:13223#FR法国(ProxyGo免费节点分享)<br>vless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?encryption=none&security=tls&sni=mz0tgmxz.user-api.chinav.eu.org&type=ws&host=mz0tgmxz.user-api.chinav.eu.org&path=/danfeng?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/?ed=2560#HK中国香港(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@162.141.130.233:24443?encryption=none&security=tls&sni=guslef2w8oz12wv.ymj.xx.kg&type=ws&host=guslef2w8oz12wv.ymj.xx.kg&path=/@Marisa_kristi#JP日本(ProxyGo免费节点分享)<br>vless://73bcd72f-9545-4cb8-8daf-7d004501880d@210.156.180.102:16090?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=/#JP日本(ProxyGo免费节点分享)<br>
+> vless://00000000-0000-4000-8000-000000000000@89.23.108.19:4433?encryption=none&security=tls&sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristi#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiamZsc2psYWYucGFnZXMuZGV2IiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiREXlvrflm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==<br>
 > 
 
 ## 订阅地址：
