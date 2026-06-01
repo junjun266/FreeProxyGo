@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-01 12:00:04）
+## 免费订阅更新时间（2026-06-01 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.15.225:20129#GB英国(ProxyGo免费节点分享)<br>trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#GB英国(ProxyGo免费节点分享)<br>vless://b2b62085-f202-4c49-9f19-a44676a3d76d@222.113.18.214:11310?encryption=none&security=tls&sni=vpn2.rnmcnm.com&type=ws&host=vpn2.rnmcnm.com&path=/ray#KR韩国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA==@176.32.39.99:40519#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#KR韩国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#US美国(ProxyGo免费节点分享)<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime23.workers.dev&path=/#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#GB英国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
