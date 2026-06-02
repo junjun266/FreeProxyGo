@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-02 10:00:01）
+## 免费订阅更新时间（2026-06-02 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime23.workers.dev&path=/#DE德国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#DE德国(ProxyGo免费节点分享)<br>trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#GB英国(ProxyGo免费节点分享)<br>socks://Og==@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI4Mi4xOTguMjQ2LjIxNCIsInBvcnQiOiIxODAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMzQxNmNiZTU3YjdjNTI3MzM3MjE4NTlkNGUyM2JlMzkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9<br>trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
+> vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/@Marisa_kristi#(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@8.219.2.255:33284?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/@Marisa_kristi#US美国(ProxyGo免费节点分享)<br>vless://00000000-0000-4000-8000-000000000000@mfa.gov.ua:443?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/@Marisa_kristi#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiJ3b3JsZC50LjUxZ3Vhbmd0YW9iYW8uY29tIiwicG9ydCI6IjI1MTAiLCJpZCI6IjFkM2Q4NjhlLWFlN2ItMzc2Mi1iOWQ5LWE3ZjI2NzQ5NGM3ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoid29ybGQudC41MWd1YW5ndGFvYmFvLmNvbSIsInBvcnQiOiIyNTEwIiwiaWQiOiIxZDNkODY4ZS1hZTdiLTM3NjItYjlkOS1hN2YyNjc0OTRjN2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IndvcmxkLnQuNTFndWFuZ3Rhb2Jhby5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9<br>vless://00000000-0000-4000-8000-000000000000@store.ubi.com:443?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/@Marisa_kristi#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
