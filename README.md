@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-05 10:00:00）
+## 免费订阅更新时间（2026-06-05 11:00:24）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?encryption=none&security=reality&sni=api.digital-help-prd.autodesk.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)<br>trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?#US美国(ProxyGo免费节点分享)<br>vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?encryption=none&security=reality&sni=api.digital-help-prd.autodesk.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv5.global.ssl.fastly.net&path=/Tignal&mode=auto#US美国(ProxyGo免费节点分享)<br>vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
+> vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv4.global.ssl.fastly.net&path=/Tignal&mode=auto#FR法国(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv5.global.ssl.fastly.net&path=/Tignal&mode=auto&extra={"xPaddingBytes":"100-1000"}#GB英国(ProxyGo免费节点分享)<br>vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=r1.mizulina.top#RU俄罗斯(ProxyGo免费节点分享)<br>vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.126.205:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
