@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-07 21:00:00）
+## 免费订阅更新时间（2026-06-07 22:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#FR法国(ProxyGo免费节点分享)<br>vless://c950a09e-e0df-4756-8dfc-a75d46518f16@du1.gamelistak.com:443?encryption=none&security=tls&sni=du1.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=du1.gamelistak.com&path=/https://t.me/MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#(ProxyGo免费节点分享)<br>vless://b67ed271-5a34-4d07-9970-f8ba27ca2c8a@78.17.147.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&sid=fcd9787f&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ph2.yuntong.click:443?sni=ph2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#(ProxyGo免费节点分享)<br>vless://a6e72947-cd53-449e-8ae2-11140ea398df@45.136.58.34:443?encryption=mlkem768x25519plus.native.0rtt.nG3V55mC3ymWk7jI7HJBM4ou3sd9-9OlQpe7tsPiD0U&security=reality&sni=www.samsung.com&fp=chrome&pbk=DMliziQZIP7k6OYcVSTi6gZ5xqK595sbyrpdzI6CdUs&sid=70e2107044b9&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)<br>vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot31dx253.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>
+> hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ph2.yuntong.click:443?sni=ph2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"mode":"auto"}#CA加拿大(ProxyGo免费节点分享)<br>vless://TIGNAL-CRYPTO@151.101.129.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.129.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://TIGNAL-CRYPTO@151.101.67.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"mode":"auto"}#CA加拿大(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
