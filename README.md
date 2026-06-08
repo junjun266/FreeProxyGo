@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-08 10:00:00）
+## 免费订阅更新时间（2026-06-08 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@ph2.yuntong.click:443?sni=ph2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"mode":"auto"}#CA加拿大(ProxyGo免费节点分享)<br>vless://TIGNAL-CRYPTO@151.101.129.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.129.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://TIGNAL-CRYPTO@151.101.67.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/&mode=auto#CA加拿大(ProxyGo免费节点分享)<br>vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"mode":"auto"}#CA加拿大(ProxyGo免费节点分享)<br>
+> vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv4.global.ssl.fastly.net&path=/Tignal&mode=auto#FR法国(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@151.101.128.223:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=//assignment#FR法国(ProxyGo免费节点分享)<br>vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&host=sv6tignal.global.ssl.fastly.net&path=/tofan&mode=auto&extra={"xPaddingBytes":"100-1000"}#FR法国(ProxyGo免费节点分享)<br>vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=r1.mizulina.top#RU俄罗斯(ProxyGo免费节点分享)<br>vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
