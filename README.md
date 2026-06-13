@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-13 10:00:00）
+## 免费订阅更新时间（2026-06-13 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@186.246.2.119:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#FR法国(ProxyGo免费节点分享)<br>vless://52c0dab9-2187-49a4-8e31-f1db94bd7a9e@199.232.78.160:443?encryption=none&security=tls&sni=speedtest.net&insecure=1&allowInsecure=1&type=ws&host=alesis724.global.ssl.fastly.net&path=/#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@newyorkcity.instasup.ir:1004?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=437UW8qHz_L4qlOZ_AgufdsA9me_uS5MWM-eptxM3w4&sid=998ad2ef2d977802&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:41943?security=tls&sni=az.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:45553?security=tls&sni=ch.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443?#KR韩国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#KR韩国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&security=none&fp=chrome&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#KR韩国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#KR韩国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.130.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#KR韩国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?encryption=none&security=none&fp=chrome&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#KR韩国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
