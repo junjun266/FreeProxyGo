@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-15 09:00:00）
+## 免费订阅更新时间（2026-06-15 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://9cd358d7-7888-4c03-a431-c0de9a2090d2@43.198.153.243:443?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=pEDPvfCw_TPVn0Yn6q9nS7VSGy1z1XEF0jbMZSfTsTM&sid=b0d4&spx=/zUlijc9c7ObsrdA&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.154.217:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#SG新加坡(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@18.138.34.221:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#GB英国(ProxyGo免费节点分享)<br>trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.32.26.252:8443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#JP日本(ProxyGo免费节点分享)<br>trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.36.17:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#JP日本(ProxyGo免费节点分享)<br>socks://VDJjbE0wUWxNMFE2Og@121.169.46.116:1090#KR韩国(ProxyGo免费节点分享)<br>
+> hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?sni=cn.cremedelamer.com&insecure=1&allowInsecure=1#AU澳大利亚(ProxyGo免费节点分享)<br>vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.62.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.63.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.247.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.246.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
