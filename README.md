@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-06-17 10:00:03）
+## 免费订阅更新时间（2026-06-17 11:00:01）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?sni=cn.cremedelamer.com&insecure=1&allowInsecure=1#AU澳大利亚(ProxyGo免费节点分享)<br>vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.62.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.63.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.247.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.246.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#DE德国(ProxyGo免费节点分享)<br>
+> trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@69.63.214.61:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=/?ed=2048#US美国(ProxyGo免费节点分享)<br>vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@156.244.43.22:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&insecure=0&allowInsecure=0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@69.63.206.96:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=/?ed=2048#US美国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxODYuMjQ0LjIwOC43OCIsInBvcnQiOiIzMDAyMiIsImlkIjoiYjdkOTM1NDktMGYzZi00YWYyLTlmNGQtNDM0MDg2N2EyM2I0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9<br>trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@64.186.229.220:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=/?ed=2048#US美国(ProxyGo免费节点分享)<br>trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@156.246.89.197:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=/?ed=2048#JP日本(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
