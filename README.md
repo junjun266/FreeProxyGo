@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-03 11:00:00）
+## 免费订阅更新时间（2026-07-03 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.28.104:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-amz#US美国(ProxyGo免费节点分享)<br>vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#US美国(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#US美国(ProxyGo免费节点分享)<br>
+> trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@5.129.250.210:2053?encryption=none&security=reality&sni=cam-msk-6.videomonitor.cloud&fp=firefox&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&sid=e4fb18c16a95e52d&type=grpc&authority=&serviceName=grpc-direct&mode=gun#DE德国(ProxyGo免费节点分享)<br>hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@helsinki02.m247-fi-02.live:8449?sni=sni.fi-m247-02.com&insecure=1&allowInsecure=1#(ProxyGo免费节点分享)<br>hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&allowInsecure=0#GB英国(ProxyGo免费节点分享)<br>hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?sni=vn2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#VN越南(ProxyGo免费节点分享)<br>vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn2.hirbilon.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mn2.hirbilon.net&fp=chrome&pbk=tXQHIQhIqCHpqpniHNVdiqb7jixaZzq08-KHEAGWB3M&sid=05f6a5418c2a6865&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
