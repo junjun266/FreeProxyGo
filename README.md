@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-14 11:00:00）
+## 免费订阅更新时间（2026-07-14 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> socks://Og@112.28.149.152:8443#JP日本(ProxyGo免费节点分享)<br>hysteria2://C0DD7bgChaltqnh/T2az6ijM@193.123.228.188:20000?sni=www.bing.com&insecure=1&allowInsecure=1#KR韩国(ProxyGo免费节点分享)<br>hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&insecure=1&allowInsecure=1#US美国(ProxyGo免费节点分享)<br>vless://4d10c997-4781-4cd9-82c3-15453523e12c@120.55.183.176:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi#US美国(ProxyGo免费节点分享)<br>vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&security=none&type=ws&host=proud-cloud-5c50.113-8dc.workers.dev&path=/pyip=Telegram🇨🇳+@WangCai2#US美国(ProxyGo免费节点分享)<br>vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?encryption=none&security=none&type=ws&host=proud-cloud-5c50.113-8dc.workers.dev&path=/#US美国(ProxyGo免费节点分享)<br>
+> vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.34.23:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
