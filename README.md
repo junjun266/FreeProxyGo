@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-15 11:00:00）
+## 免费订阅更新时间（2026-07-15 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.34.23:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>
+> socks://Og@112.28.149.156:8443#US美国(ProxyGo免费节点分享)<br>vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.210:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=/?Telegram-WangCai2🇨🇳&mode=auto#FR法国(ProxyGo免费节点分享)<br>vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.2:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=/?Telegram-WangCai2🇨🇳&mode=auto#FR法国(ProxyGo免费节点分享)<br>vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.242:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=/?Telegram-WangCai2🇨🇳&mode=auto#FR法国(ProxyGo免费节点分享)<br>vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.99:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=/?Telegram-WangCai2🇨🇳&mode=auto#DE德国(ProxyGo免费节点分享)<br>vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@199.232.240.217:80?encryption=none&security=none&type=xhttp&host=monopoli.global.ssl.fastly.net&path=/?Telegram-WangCai2🇨🇳&mode=auto#FR法国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
