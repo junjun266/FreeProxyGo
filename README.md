@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-19 10:00:00）
+## 免费订阅更新时间（2026-07-19 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster#US美国(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#FR法国(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.233.72:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#US美国(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.60.248.100:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://c20a0bcf-aa6f-4c35-9e62-a39b47b04e73@91.206.71.8:80?encryption=none&security=none&type=ws&host=round-haze-8783.294.workers.dev&path=/pyip=Telegram🇨🇳 @WangCai2#US美国(ProxyGo免费节点分享)<br>
+> vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.54:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.251:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.191:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.205:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.172:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.151:80?encryption=none&security=none&type=ws&host=s5gydl.936.us.ci&path=/Telegram🇨🇳+@WangCai2#HK中国香港(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
