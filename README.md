@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-29 11:00:00）
+## 免费订阅更新时间（2026-07-29 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> anytls://c90afede-81f8-439d-9a20-f45579f623ec@us77.jdoanst2026.com:443?security=tls&sni=us77.jdoanst2026.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP日本(ProxyGo免费节点分享)<br>vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@172.66.3.109:8443?encryption=none&security=tls&sni=vlso3.1d.mom&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vlso3.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080#CA加拿大(ProxyGo免费节点分享)<br>anytls://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@6d4a15d8-tiw740-tzzpok-1sllg.hk3.hyhuawei.com:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>anytls://101865c6-e4e5-11ee-b1cc-f23c9164ca5d@99bfa3b9-tiw740-u1a7t2-1qwla.hk3.hyhuawei.com:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.229:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#CA加拿大(ProxyGo免费节点分享)<br>vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@172.66.3.233:2096?encryption=none&security=tls&sni=vlso3.1d.mom&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vlso3.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080#CA加拿大(ProxyGo免费节点分享)<br>
+> trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@165.215.250.14:443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.creationlong.org&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35&type=tcp&headerType=none&host=storage.yandex.net#US美国(ProxyGo免费节点分享)<br>vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&type=tcp&headerType=none&host=storage.yandex.net#US美国(ProxyGo免费节点分享)<br>vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
