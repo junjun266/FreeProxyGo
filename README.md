@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-07-31 11:00:00）
+## 免费订阅更新时间（2026-07-31 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vmess://eyJ2IjoiMiIsInBzIjoiSEvkuK3lm73pppnmuK8oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiI0My4xOTguMjA0LjM1IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiY0UwZ2VkUFh3T1U2Y3FvTi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6ImNFMGdlZFBYd09VNmNxb04udi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9<br>hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?sni=nas.aizhzo.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#HK中国香港(ProxyGo免费节点分享)<br>socks://Og@112.28.149.152:8443#JP日本(ProxyGo免费节点分享)<br>socks://Og@112.28.149.156:8443#US美国(ProxyGo免费节点分享)<br>vless://74e3aa28-3d4b-47f5-8c07-ad8360fe2232@13.212.82.58:2000?encryption=none&security=tls&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&path=/@Marisa_kristi#SG新加坡(ProxyGo免费节点分享)<br>socks://Og@43.164.136.189:1080#KR韩国(ProxyGo免费节点分享)<br>
+> vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=grpc&authority=&serviceName=TunService&mode=gun#US美国(ProxyGo免费节点分享)<br>vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=xhttp&host=download.nvidia.com&path=/&mode=auto#US美国(ProxyGo免费节点分享)<br>vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?encryption=none&security=none&type=ws&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#US美国(ProxyGo免费节点分享)<br>vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=tcp&headerType=none&host=dl.google.com&path=/#US美国(ProxyGo免费节点分享)<br>vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?encryption=none&security=tls&sni=ld.223350.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=ld.223350.xyz&path=/#FR法国(ProxyGo免费节点分享)<br>trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com&fp=qq&insecure=1&allowInsecure=1&type=tcp&headerType=none#GB英国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
