@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-01 11:00:00）
+## 免费订阅更新时间（2026-08-01 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=grpc&authority=&serviceName=TunService&mode=gun#US美国(ProxyGo免费节点分享)<br>vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=xhttp&host=download.nvidia.com&path=/&mode=auto#US美国(ProxyGo免费节点分享)<br>vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?encryption=none&security=none&type=ws&host=soft-shadow-1e33.xicav73335.workers.dev&path=/ws#US美国(ProxyGo免费节点分享)<br>vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=chrome&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&type=tcp&headerType=none&host=dl.google.com&path=/#US美国(ProxyGo免费节点分享)<br>vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?encryption=none&security=tls&sni=ld.223350.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=ld.223350.xyz&path=/#FR法国(ProxyGo免费节点分享)<br>trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&sni=de.catxstar.com&fp=qq&insecure=1&allowInsecure=1&type=tcp&headerType=none#GB英国(ProxyGo免费节点分享)<br>
+> vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.240:2053?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=/#US美国(ProxyGo免费节点分享)<br>vless://957797d5-1710-4e4a-bf41-9f5b641503e3@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=/#DE德国(ProxyGo免费节点分享)<br>vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node6.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node6.mxvpn.dev&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@www.glassdoor.com:8880?encryption=none&security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev&path=/#FR法国(ProxyGo免费节点分享)<br>vless://91c7ea79-9187-4f07-ab97-68c584186843@skk.moe:8880?encryption=none&security=none&sni=skk.moe&type=ws&host=nameless-dust-1a36.207-b50.workers.dev&path=/#FR法国(ProxyGo免费节点分享)<br>vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@108.162.192.5:443?encryption=none&security=tls&sni=soucuovls.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=soucuovls.pages.dev&path=/#FR法国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
