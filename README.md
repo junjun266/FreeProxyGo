@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-04 10:00:00）
+## 免费订阅更新时间（2026-08-04 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> socks://Og@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://Og@112.28.149.152:8443#HK中国香港(ProxyGo免费节点分享)<br>vless://e382b6dd-2dac-49c5-b16f-1cd0a6b73bf2@50.62.195.4:80?encryption=none&security=none&type=ws&host=raspy-feather-12ec.137-257.workers.dev&path=/pyip=Telegram🇨🇳+@WangCai2#US美国(ProxyGo免费节点分享)<br>socks://Og@43.164.136.189:1080#KR韩国(ProxyGo免费节点分享)<br>socks://Og@43.164.136.189:1080#KR韩国(ProxyGo免费节点分享)<br>trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?security=tls&sni=dimskiee.biz.id&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/WangCai-8#FR法国(ProxyGo免费节点分享)<br>
+> vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime39.workers.dev&path=/#US美国(ProxyGo免费节点分享)<br>vless://0d251504-8b91-4744-8130-412ec76af13f@104.18.8.223:2083?encryption=none&security=tls&sni=testcf.motherfuck.dpdns.org&fp=random&insecure=0&allowInsecure=0&type=ws&host=testcf.motherfuck.dpdns.org&path=/?ed=2560#US美国(ProxyGo免费节点分享)<br>socks://Og@212.58.132.5:1080#US美国(ProxyGo免费节点分享)<br>vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.156.0:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=/fdip#US美国(ProxyGo免费节点分享)<br>vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?encryption=none&security=reality&sni=download.nvidia.com&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&authority=&serviceName=TunService&mode=gun#SG新加坡(ProxyGo免费节点分享)<br>socks://TV9ZT1VfRDpQcml2YXRl@85.17.179.81:1080#NL荷兰(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
