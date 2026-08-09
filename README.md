@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-09 13:00:00）
+## 免费订阅更新时间（2026-08-09 15:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=/#DE德国(ProxyGo免费节点分享)<br>anytls://f93d0a97-c3a8-47af-b2be-ea4904c9918b@jjz.jjznodenode.top:17966?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?sni=de-two.quiet-rogue.site&insecure=0&allowInsecure=0#DE德国(ProxyGo免费节点分享)<br>vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@104.171.133.53:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#RU俄罗斯(ProxyGo免费节点分享)<br>vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#RU俄罗斯(ProxyGo免费节点分享)<br>vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#RU俄罗斯(ProxyGo免费节点分享)<br>
+> vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605:e440:15::6b]:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=xhttp&path=/#US美国(ProxyGo免费节点分享)<br>vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?encryption=none&security=reality&sni=swcdn.apple.com&fp=firefox&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&type=xhttp&path=/&mode=auto#US美国(ProxyGo免费节点分享)<br>vless://4593aa27-a2a1-412f-935f-3829495c0970@91.235.234.186:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us7fs3.proxen.pdevinfra.com&fp=qq&pbk=g-WqfHKjac71MMtkmq5bIvTFavzXTCAnEI_17KoTNSQ&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605:e440:15::6b]:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=36cf43b9s298.wagahaha.xyz#US美国(ProxyGo免费节点分享)<br>vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605:e440:15::6b]:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695099uccbf75e5s298.wagahaha.xyz&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none&host=ccbf75e5s298.wagahaha.xyz#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
