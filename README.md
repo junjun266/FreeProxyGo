@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-11 11:00:00）
+## 免费订阅更新时间（2026-08-11 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?encryption=none&security=tls&sni=31.76.251.127.cdn-one.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=31.76.251.127.cdn-one.org&path=/10336/2GCOqG7bvA#GB英国(ProxyGo免费节点分享)<br>hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#GB英国(ProxyGo免费节点分享)<br>hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&insecure=0&allowInsecure=0#GB英国(ProxyGo免费节点分享)<br>vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?encryption=none&security=tls&sni=31.76.251.127.cdn-one.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=31.76.251.127.cdn-one.org&path=/10336/2GCOqG7bvA#PL波兰(ProxyGo免费节点分享)<br>vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf3.466688.xyz:8880?encryption=none&security=none&type=ws&host=ancient-rice-c180.455-8ad.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian#US美国(ProxyGo免费节点分享)<br>vless://a7b22989-6c1f-4b59-b0f3-0605401813c4@45.131.4.115:80?encryption=none&security=none&type=ws&host=worker3.gigak25604.workers.dev&path=/eyJqdW5rIjoiQXoydFJwaWM0WSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=#US美国(ProxyGo免费节点分享)<br>
+> vless://e3c40721-22bc-4862-a358-09502fc14af6@glidio.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=glidio.shieldix.top&fp=firefox&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://e3c40721-22bc-4862-a358-09502fc14af6@glidio.shieldix.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=glidio.shieldix.top&fp=firefox&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e&type=tcp&headerType=none&host=glidio.shieldix.top&path=/#(ProxyGo免费节点分享)<br>vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.143:62145?encryption=none&security=none&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.152:62145?encryption=none&security=none&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.183.255:62145?encryption=none&security=none&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.175.159:62145?encryption=none&security=none&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
