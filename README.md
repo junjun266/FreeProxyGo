@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-15 09:00:00）
+## 免费订阅更新时间（2026-08-15 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://humanity@104.18.152.108:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=/&mode=auto#US美国(ProxyGo免费节点分享)<br>trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.108:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>
+> vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoid3d3LnRydWUudGgiLCJwb3J0IjoiODAiLCJpZCI6ImExNTBkNTU0LWU5NjItNDYzMi04MjlmLWVlNTgzYWRhM2Y5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwicGF0aCI6Ii9odHVuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=<br>trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.133:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@2.144.21.150:2000?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.22.63:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
