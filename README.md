@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-16 11:00:00）
+## 免费订阅更新时间（2026-08-16 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoid3d3LnRydWUudGgiLCJwb3J0IjoiODAiLCJpZCI6ImExNTBkNTU0LWU5NjItNDYzMi04MjlmLWVlNTgzYWRhM2Y5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwicGF0aCI6Ii9odHVuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=<br>trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.133:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@2.144.21.150:2000?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.22.63:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>
+> trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.28:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/#US美国(ProxyGo免费节点分享)<br>trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.103:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
