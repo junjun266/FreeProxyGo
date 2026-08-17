@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-17 11:00:00）
+## 免费订阅更新时间（2026-08-17 12:00:21）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.28:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=/#US美国(ProxyGo免费节点分享)<br>trojan://humanity@8.6.112.6:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.103:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>
+> socks://Og@112.90.88.102:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://MTIzOjEyMw@43.100.43.112:3060#US美国(ProxyGo免费节点分享)<br>hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?sni=8-210-142-69.liao.kdns.fr&insecure=0&allowInsecure=0#HK中国香港(ProxyGo免费节点分享)<br>socks://T2c9PTo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://T2c6@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://MTIzNDU2OjEyMzQ1Ng@8.209.236.192:1080#JP日本(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
