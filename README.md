@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-18 11:00:00）
+## 免费订阅更新时间（2026-08-18 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> socks://Og@112.90.88.102:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://MTIzOjEyMw@43.100.43.112:3060#US美国(ProxyGo免费节点分享)<br>hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?sni=8-210-142-69.liao.kdns.fr&insecure=0&allowInsecure=0#HK中国香港(ProxyGo免费节点分享)<br>socks://T2c9PTo@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://T2c6@59.38.113.185:20000#HK中国香港(ProxyGo免费节点分享)<br>socks://MTIzNDU2OjEyMzQ1Ng@8.209.236.192:1080#JP日本(ProxyGo免费节点分享)<br>
+> vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?encryption=none&security=none&type=xhttp&host=xvh.andishehparenting.com&path=/#(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.89.80:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoiMTg1LjI0Ni4xNTIuMTU5IiwicG9ydCI6IjQ0MyIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFwamhkZ2d5eC5jb20iLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsInRscyI6InRscyIsInNuaSI6ImFwamhkZ2d5eC5jb20iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoiMTg1LjI0Ni4xNTIuMTU5IiwicG9ydCI6IjQ0MyIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFwamhkZ2d5eC5jb20iLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.69.40:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none&host=eu-central.cendora.ru&path=/#(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiKFByb3h5R2/lhY3otLnoioLngrnliIbkuqspIiwiYWRkIjoid3d3LnRydWUudGgiLCJwb3J0IjoiODAiLCJpZCI6ImExNTBkNTU0LWU5NjItNDYzMi04MjlmLWVlNTgzYWRhM2Y5NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwicGF0aCI6Ii9odHVuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=<br>
 > 
 
 ## 订阅地址：
