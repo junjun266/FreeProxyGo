@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-23 11:00:00）
+## 免费订阅更新时间（2026-08-23 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://1f33015f-a27f-44f0-a86b-03e4d2dccc0b@v4.yuetoto.net:20000?sni=run-uz.yuetong.online&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=hFF1gnLIWHTVUKoMgYBYQQnp&mport=20000-20899#JP日本(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none&host=nordic.cendora.ru#GB英国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.3.54:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>anytls://3b32eb1c-150e-4eb4-8323-370844489508@sivp555.ascwt179.com:46716?security=tls&sni=hk07.webflarex.top&insecure=1&allowInsecure=1&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)<br>anytls://3b32eb1c-150e-4eb4-8323-370844489508@sivp555.ascwt179.com:25657?security=tls&sni=yz31.jdddyy01.cc&insecure=1&allowInsecure=1&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)<br>
+> vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#HK中国香港(ProxyGo免费节点分享)<br>vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=workspace.evan00.dpdns.org&path=/#FR法国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@36.33.35.105:10006?#SG新加坡(ProxyGo免费节点分享)<br>socks://Og@112.28.149.152:8443#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
