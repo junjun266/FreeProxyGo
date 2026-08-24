@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-24 11:00:00）
+## 免费订阅更新时间（2026-08-24 12:00:10）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#HK中国香港(ProxyGo免费节点分享)<br>vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?encryption=none&security=tls&sni=workspace.evan00.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=workspace.evan00.dpdns.org&path=/#FR法国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@36.33.35.105:10006?#SG新加坡(ProxyGo免费节点分享)<br>socks://Og@112.28.149.152:8443#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>
+> vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?encryption=none&security=tls&sni=ld.223350.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=ld.223350.xyz&path=/#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.124:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&host=auto.cendora.ru#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
