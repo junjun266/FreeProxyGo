@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-25 10:00:00）
+## 免费订阅更新时间（2026-08-25 11:00:04）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?encryption=none&security=tls&sni=ld.223350.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=ld.223350.xyz&path=/#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.124:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.210.168:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none&host=auto.cendora.ru#(ProxyGo免费节点分享)<br>
+> trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@176.97.66.175:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#TW中国台湾(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiRlLms5Xlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsInBvcnQiOiIyMzM4OCIsImlkIjoiM2E5NjZkMjAtN2I5ZC00OGNjLWJhMmMtOGQzODE2MWI2ZDNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ==<br>trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>hysteria2://a34f3990b69f44bfa0d32385@152.69.173.189:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&mport=20000-30000#AU澳大利亚(ProxyGo免费节点分享)<br>trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
