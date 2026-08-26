@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-26 10:00:00）
+## 免费订阅更新时间（2026-08-26 11:00:02）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@176.97.66.175:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#TW中国台湾(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiRlLms5Xlm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsInBvcnQiOiIyMzM4OCIsImlkIjoiM2E5NjZkMjAtN2I5ZC00OGNjLWJhMmMtOGQzODE2MWI2ZDNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ==<br>trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>hysteria2://a34f3990b69f44bfa0d32385@152.69.173.189:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385&mport=20000-30000#AU澳大利亚(ProxyGo免费节点分享)<br>trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>
+> vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@5.175.178.254:443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@159.253.21.82:443?encryption=none&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@95.85.243.240:443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@95.85.243.240:443?encryption=none&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@45.95.232.18:2053?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c491730| 🇨🇭 瑞士 18 | 45.95.232.18:2053#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@132.243.203.249:8443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
