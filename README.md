@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-28 12:00:00）
+## 免费订阅更新时间（2026-08-28 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@5.175.178.254:443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@159.253.21.82:443?encryption=none&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@95.85.243.240:443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@95.85.243.240:443?encryption=none&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@45.95.232.18:2053?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c491730| 🇨🇭 瑞士 18 | 45.95.232.18:2053#(ProxyGo免费节点分享)<br>vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@132.243.203.249:8443?encryption=none&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#(ProxyGo免费节点分享)<br>
+> trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#US美国(ProxyGo免费节点分享)<br>trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=h3,h2,http/1.1&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@213.35.110.208:12569?encryption=none&security=tls&sni=vod.ensf.top&fp=chrome&type=ws&host=vod.ensf.top&path=/api/v1/irc#SG新加坡(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
