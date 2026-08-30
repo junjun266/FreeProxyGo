@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-08-30 11:00:06）
+## 免费订阅更新时间（2026-08-30 12:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aVM2Y0dwWndXUFF0THZQSG82UTVnTUFuN3paZEpwRDlZb1lHbjZtOW1Gdz0@64.181.177.112:59319?#(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.148:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?encryption=none&security=tls&sni=rayan-007.nastaran.dpdns.org&fp=chrome&type=ws&path=/#US美国(ProxyGo免费节点分享)<br>vless://122614de-c046-44d9-b7c3-279fc73aa543@165.22.104.36:443?encryption=none&security=tls&sni=fm3.pages.dev&fp=random&type=ws&path=/#US美国(ProxyGo免费节点分享)<br>
+> vless://122614de-c046-44d9-b7c3-279fc73aa543@165.22.104.36:443?encryption=none&security=tls&sni=fm3.pages.dev&fp=random&type=ws&path=/#US美国(ProxyGo免费节点分享)<br>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=h3,h2,http/1.1&type=ws&path=/assignment#NL荷兰(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
