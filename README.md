@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-09-05 11:00:00）
+## 免费订阅更新时间（2026-09-05 14:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?encryption=none&security=none&type=ws&host=/?--v2rayNplus--v2rayNplus--v2rayNplus--&path=/29c8fed7ca22#AU澳大利亚(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.aeternavpn.space&fp=chrome&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@201.51.8.235:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=/v1#HK中国香港(ProxyGo免费节点分享)<br>vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.123:7444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=akamai.com&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp&headerType=none#HK中国香港(ProxyGo免费节点分享)<br>trojan://MiTiVPN@199.232.78.160:443?allowInsecure=1&insecure=1&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&type=ws&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#HK中国香港(ProxyGo免费节点分享)<br>
+> trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#HK中国香港(ProxyGo免费节点分享)<br>vless://2240d8f8-898f-4988-8c08-ac724aa06ddb@172.67.216.151:443?encryption=none&security=tls&sni=0-m9.5f67a3d6-2963-45ab-8313-7d02d224d2a0.kdns.fr&type=ws&host=0-m9.5f67a3d6-2963-45ab-8313-7d02d224d2a0.kdns.fr&path=/BzuntJ8qZN0TRKbC8TveMxJ0#US美国(ProxyGo免费节点分享)<br>vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@rrr.windconnect.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rrr.windconnect.pro&fp=firefox&pbk=BsFRd4pZgH2hK2AmVf6Mv7z2QGmV2LPYbqkT1UqZX30&sid=4da5d1853f04af6d&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
