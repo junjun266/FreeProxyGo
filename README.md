@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-09-12 10:00:00）
+## 免费订阅更新时间（2026-09-12 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12}}#NL荷兰(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#NL荷兰(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#HK中国香港(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.18.33.112:2096?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>
+> hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#GB英国(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.49.155:443?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.233:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.207:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
