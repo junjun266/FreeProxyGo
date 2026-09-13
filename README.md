@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-09-13 10:00:00）
+## 免费订阅更新时间（2026-09-13 11:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#GB英国(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.49.155:443?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.233:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.207:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#US美国(ProxyGo免费节点分享)<br>
+> trojan://humanity@176.97.66.175:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#(ProxyGo免费节点分享)<br>vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?encryption=none&security=reality&sni=deepl.com&fp=qq&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&sid=7606&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.62.176:2096?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.18.33.112:2096?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.179.247:8443?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=fq.jp188.dpdns.org&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57#(ProxyGo免费节点分享)<br>trojan://humanity@104.16.174.33:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#CA加拿大(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
