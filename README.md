@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 免费订阅更新时间（2026-10-02 12:00:00）
+## 免费订阅更新时间（2026-10-02 13:00:00）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://C0DD7bgChaltqnh/T2az6ijM@193.122.115.52:20000?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&mport=20000-30000#KR韩国(ProxyGo免费节点分享)<br>vless://37665857-8b6e-4daa-8231-3e2927221558@158.247.222.168:443?encryption=none&security=tls&sni=spjd.cbc.qzz.io&fp=chrome&type=ws&host=spjd.cbc.qzz.io&path=/proxyip=ProxyIP.US.CMLiussss.net#KR韩国(ProxyGo免费节点分享)<br>trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment#US美国(ProxyGo免费节点分享)<br>vless://448b76ac-c636-4303-bec1-0b2c22afee0c@34.95.28.161:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=l4tGdE5Zn8ABfBQns3pRBcxy6CckHTLSIsw5JaBumTk&sid=c9d4bf8d94ec8dab&type=tcp&headerType=none#CA加拿大(ProxyGo免费节点分享)<br>trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#FR法国(ProxyGo免费节点分享)<br>
+> vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#FR法国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#FR法国(ProxyGo免费节点分享)<br>vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@35.185.179.62:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=/kavir&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
