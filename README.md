@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-03 17:07:57）
+## 最近成功采集（2026-10-04 10:21:43）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@us1.g4m1.biz:443?encryption=none&security=tls&sni=us1.g4m1.biz&fp=random&type=grpc&authority=&serviceName=cdn.v1.AssetService&mode=gun#(ProxyGo免费节点分享)<br>vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@201.34.159.213:443?encryption=none&security=tls&sni=us1.g4m1.biz&fp=firefox&type=grpc&authority=&serviceName=cdn.v1.AssetService&mode=gun#(ProxyGo免费节点分享)<br>vless://88ee0e1e-a2a2-477e-88ce-4875c058aeba@211.229.56.86:30021?encryption=none&security=tls&sni=123.714541.xyz&fp=random&type=ws&host=123.714541.xyz&path=%2FRa-vl#KR韩国(ProxyGo免费节点分享)<br>vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.58.153:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&sid=89b3a20484eb43ec&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@35.185.179.62:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=edge&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@35.185.179.62:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=qq&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none#SG新加坡(ProxyGo免费节点分享)<br>
+> vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&security=reality&sni=germanytest.tulnaro.ir&fp=chrome&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&sid=d485c3d5248d6b51&type=xhttp&host=germanytest.tulnaro.ir&path=%2F&mode=auto#GB英国(ProxyGo免费节点分享)<br>vless://2897717e-55b6-4d3d-8752-72c5fd4614ae@13.143.185.29:8448?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SEFnqOIUiHZpOgtXZ3FFFhVTALc1ReEVt78femI770U&sid=c90743ca346c8da7&type=xhttp&host=13.143.185.29&path=%2Fassets%2Fv2&mode=auto#US美国(ProxyGo免费节点分享)<br>hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru&insecure=1#US美国(ProxyGo免费节点分享)<br>vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.174.85:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>anytls://13f0acfa-38c1-4e82-a758-583aa31740df@svip.skycon808.com:60005?insecure=1&security=tls&sni=xjp18.2uuzhe.com&type=tcp&headerType=none#KR韩国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
