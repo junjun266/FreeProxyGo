@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-07 10:30:38）
+## 最近成功采集（2026-10-08 09:35:14）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.21.70.21:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&type=ws&path=%2Fws#US美国(ProxyGo免费节点分享)<br>anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.864106.xyz:19000?insecure=1&security=tls&sni=anytls2.864106.xyz&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://8a36be1d-7c78-4885-8a1f-bedf5ba7db1c@104.21.70.21:8080?encryption=none&security=none&type=ws&host=lucky-lab-ac6d.caveyi8071.workers.dev&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@163.245.52.91:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=d3-ee1.cloud-cdn.xyz&fp=edge&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&sid=ad6e08b22389abd2&type=tcp&headerType=none&host=d3-ee1.cloud-cdn.xyz#US美国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&security=none&sni=185.148.104.30&fp=chrome&type=ws&host=vms.lifetime51.workers.dev&path=%2F#US美国(ProxyGo免费节点分享)<br>
+> vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.160.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&sid=3cef317b&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.160.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&sid=3cef317b&type=tcp&headerType=none&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP#(ProxyGo免费节点分享)<br>vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.160.166:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M&sid=3cef317b&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#(ProxyGo免费节点分享)<br>vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zsat.eu-cdn294.com&fp=chrome&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://573c6482-37db-454a-8c31-5b45a338a580@209.206.51.240:443?encryption=none&security=tls&sni=and-75r.pages.dev&fp=chrome&type=ws&path=%2F#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime11.workers.dev&path=%2F#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
