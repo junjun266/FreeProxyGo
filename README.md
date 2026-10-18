@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-17 12:30:13）
+## 最近成功采集（2026-10-18 10:33:53）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchrome#US美国(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#US美国(ProxyGo免费节点分享)<br>anytls://ec74bb6a86c2@er8u54dh.df6h451rh.xin:443?insecure=1&security=tls&sni=px.ads.linkedin.com&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome#US美国(ProxyGo免费节点分享)<br>
+> vless://9784bb19-3833-43ad-83b0-27ef8fc04ef2@70.34.214.205:443?encryption=none&security=tls&sni=20664.pages.dev&fp=random&type=ws&host=20664.pages.dev&path=%2F%3Fed%3D2048#(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.192.243.25:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#JP日本(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.148.22:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#HK中国香港(ProxyGo免费节点分享)<br>vless://bdd897a6-57f2-4311-835f-0b6c5ac5a1a2@188.245.191.19:2040?encryption=none&security=tls&sni=9qohadlkywguh.hlf9x1796lkopyju2kplt9c9smz1vyuv0u8azzk.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=9qohadlkywguh.hlf9x1796lkopyju2kplt9c9smz1vyuv0u8azzk.workers.dev&path=%2F%40Marisa_kristi#DE德国(ProxyGo免费节点分享)<br>vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.195.191.121:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#SG新加坡(ProxyGo免费节点分享)<br>vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mediakaskad.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
