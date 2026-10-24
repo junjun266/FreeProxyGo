@@ -12,7 +12,7 @@
 
 ## 订阅地址：
 
-> https://sub.proxygo.org/v2ray.php?key=313bd3e538bf2afc3e49cf62fc2a90de
+> https://sub.proxygo.org/v2ray.php?key=32524b6c7412696d39fe6000654ef223
 > 
 
 ## **Clash、SS等客户端订阅地址一键转换：**
