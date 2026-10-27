@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-26 10:01:19）
+## 最近成功采集（2026-10-27 09:04:17）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://123456@162.159.152.81:443?security=tls&sni=now-pages-sub-em4.pages.dev&type=ws&path=%2F%3Fed%3D2560#US美国(ProxyGo免费节点分享)<br>vless://0b418782-e023-447e-ba99-e66b84ff118d@213.152.165.203:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#US美国(ProxyGo免费节点分享)<br>
+> hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de3.shvpn.ru:4443?sni=de3.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.55:4443?sni=de5.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.109:4443?sni=de3.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:4443?sni=nl1.obxodvpn.us#NL荷兰(ProxyGo免费节点分享)<br>vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.141.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=abuse.ozon.ru&fp=ios&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
