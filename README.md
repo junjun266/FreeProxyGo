@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-27 09:04:17）
+## 最近成功采集（2026-10-28 10:08:35）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de3.shvpn.ru:4443?sni=de3.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.55:4443?sni=de5.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.109:4443?sni=de3.shvpn.ru#DE德国(ProxyGo免费节点分享)<br>hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:4443?sni=nl1.obxodvpn.us#NL荷兰(ProxyGo免费节点分享)<br>vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.141.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=abuse.ozon.ru&fp=ios&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>
+> trojan://123456@104.16.246.173:443?security=tls&sni=now-pages-sub-em4.pages.dev&type=ws&path=%2F%3Fed%3D2560#SG新加坡(ProxyGo免费节点分享)<br>anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?insecure=1&security=tls&sni=px.ads.linkedin.com&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)<br>vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&spx=%2F&type=grpc&authority=&serviceName=0adb9638509b&mode=gun#(ProxyGo免费节点分享)<br>trojan://d9fa9bde-de15-4a5d-bee2-88db7599bfd8@172.64.229.88:2053?security=tls&sni=17931084844379.206352.xyz&type=ws&host=17931084844933.206352.xyz&path=%2Fagraeabtegrrh#TW中国台湾(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
