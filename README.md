@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-28 10:08:35）
+## 最近成功采集（2026-10-29 10:14:37）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://123456@104.16.246.173:443?security=tls&sni=now-pages-sub-em4.pages.dev&type=ws&path=%2F%3Fed%3D2560#SG新加坡(ProxyGo免费节点分享)<br>anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?insecure=1&security=tls&sni=px.ads.linkedin.com&type=tcp&headerType=none#TW中国台湾(ProxyGo免费节点分享)<br>vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#RU俄罗斯(ProxyGo免费节点分享)<br>vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&spx=%2F&type=grpc&authority=&serviceName=0adb9638509b&mode=gun#(ProxyGo免费节点分享)<br>trojan://d9fa9bde-de15-4a5d-bee2-88db7599bfd8@172.64.229.88:2053?security=tls&sni=17931084844379.206352.xyz&type=ws&host=17931084844933.206352.xyz&path=%2Fagraeabtegrrh#TW中国台湾(ProxyGo免费节点分享)<br>
+> vless://f8f5d3a5-54bd-4f52-9759-137bdbf950db@172.66.158.115:8080?encryption=none&security=none&type=ws&host=23g-lively-resonance-96b9hsf.msc633k2.workers.dev&path=%2F#FR法国(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime19.workers.dev&path=%2F%3Fed%3D2560#FR法国(ProxyGo免费节点分享)<br>vmess://eyJ2IjoiMiIsInBzIjoiVVPnvo7lm70oUHJveHlHb+WFjei0ueiKgueCueWIhuS6qykiLCJhZGQiOiIxMDQuMTcuMTM2LjE5OCIsInBvcnQiOiI0NDMiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9<br>vless://c6b1b2d0-ed5e-48ce-99e6-112ff330030d@177.7.51.29:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=laG5BxoSbdRozpauATNFBPPTwhuDuu0JFl_SCP2ZQlU&sid=14fbf992&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.219.160:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&type=ws&path=%2Ftyxyws#US美国(ProxyGo免费节点分享)<br>vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
