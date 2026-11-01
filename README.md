@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-10-30 09:18:08）
+## 最近成功采集（2026-11-01 17:43:50）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&security=tls&sni=wsru1.wba-pn.ru&fp=chrome&type=ws&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://f97f81df-edac-47b6-badb-316125e61bfb@156.229.163.237:10238?encryption=none&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi#US美国(ProxyGo免费节点分享)<br>vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>
+> trojan://humanity@104.17.28.254:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.19.0.1:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://9f534ac4-3c58-4a16-8b74-13dff09a0cf1@8.35.211.73:2087?encryption=none&security=tls&sni=d39333476.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=d39333476.pages.dev&path=%2Fresource#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
