@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-11-01 17:43:50）
+## 最近成功采集（2026-11-02 09:46:10）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> trojan://humanity@104.17.28.254:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US美国(ProxyGo免费节点分享)<br>trojan://humanity@104.19.0.1:443?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#US美国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=firefox&alpn=h2&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US美国(ProxyGo免费节点分享)<br>vless://9f534ac4-3c58-4a16-8b74-13dff09a0cf1@8.35.211.73:2087?encryption=none&security=tls&sni=d39333476.pages.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=d39333476.pages.dev&path=%2Fresource#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>
+> hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org#(ProxyGo免费节点分享)<br>hysteria2://69e41e64-a832-471a-b740-94577ca85520@217.60.73.56:443?sni=forshynewh.duckdns.org#(ProxyGo免费节点分享)<br>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime50.workers.dev&path=%2F#CA加拿大(ProxyGo免费节点分享)<br>vless://ac36b6f8-d03d-46cb-808f-e655183fb76d@185.44.64.166:59397?encryption=mlkem768x25519plus.native.0rtt.sphudmOm4wKYnBGDTU6kl6-KH7fdQ1VzXp58hEAn3zU&flow=xtls-rprx-vision&security=reality&sni=la.blogs.nvidia.com&fp=chrome&pbk=7w6m1Z7wZk1KX7bBlCi50t_8T-HdC8aMizOcIyqcaS4&sid=1430&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#DE德国(ProxyGo免费节点分享)<br>vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&security=reality&sni=www.chip.de&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&type=tcp&headerType=none#DE德国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
