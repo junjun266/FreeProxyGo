@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-11-13 09:42:32）
+## 最近成功采集（2026-11-14 10:45:33）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?insecure=1&security=tls&sni=images.ctfassets.net&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>socks://Og@212.77.75.25:1088#(ProxyGo免费节点分享)<br>vless://bf14dc50-e9f2-49fd-8642-620446edeafb@43.229.148.249:443?encryption=none&security=tls&sni=v5-4b5.pages.dev&fp=chrome&type=ws&host=v5-4b5.pages.dev&path=%2F#(ProxyGo免费节点分享)<br>vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror-50.topp-con.xyz&fp=chrome&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&type=tcp&headerType=none&host=mirror-50.topp-con.xyz&path=%2F#(ProxyGo免费节点分享)<br>vless://bf14dc50-e9f2-49fd-8642-620446edeafb@103.83.86.134:443?encryption=none&security=tls&sni=v5-4b5.pages.dev&fp=chrome&type=ws&host=v5-4b5.pages.dev&path=%2F#(ProxyGo免费节点分享)<br>vless://e9e44c8f-44e1-450f-806d-f0dca6d7dc95@95.135.228.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ua-iev.probe.geomyip.com&fp=chrome&pbk=s0mjVjM1NTDiLYzVWHrdcSEsbJGikDXGzfLezRuJyT4&sid=0170fd1d861899a2&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>
+> ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
