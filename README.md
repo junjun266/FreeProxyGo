@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-11-17 09:47:42）
+## 最近成功采集（2026-11-19 10:55:53）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#US美国(ProxyGo免费节点分享)<br>
+> vless://4859c235-2530-4062-9a0b-ea859cbbf861@5.157.30.28:8443?encryption=none&security=tls&sni=1.proxy2.us.ci.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&type=ws&host=1.proxy2.us.ci.&path=%2F%3Fed%3D2560#(ProxyGo免费节点分享)<br>vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@85.14.243.91:8443?encryption=none&security=reality&sni=edge-7577e858223c.eu-cdn539.com&fp=chrome&pbk=dPnrpjfG_vzjH20n0W7qNbWB5-dMxNSjeo2BpIsrXAE&sid=bca958b54462eba5&type=grpc&authority=&serviceName=workspace6c036b2914c6&mode=gun#(ProxyGo免费节点分享)<br>vless://1ab3c7c3-e1cf-4a20-bd19-ea9041e5518b@201.58.134.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mena-images.shop.samsung.com&fp=chrome&pbk=A97fxYOlZFXzk9At5tXIU9PuCdvF42o0JQdovTq0wi8&sid=2958ac91fd7d96&spx=%2F226611abf41742c&type=tcp&headerType=none&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F#(ProxyGo免费节点分享)<br>vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.54.237:443?encryption=none&security=reality&sni=rly-gw-cfg.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#(ProxyGo免费节点分享)<br>vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es1.h1clayd.click&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?encryption=none&security=reality&sni=ns-api-gw.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&type=tcp&headerType=none&host=ns-api-gw.galioncc.com&path=%2F#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
