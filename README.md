@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-11-23 12:11:37）
+## 最近成功采集（2026-11-24 09:15:48）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://06a5afa1-2bbc-a5d1-1770-becd1089c636@xray-dmr3b3hy-calm-maple-7.cloady.io:443?encryption=none&security=tls&sni=xray-dmr3b3hy-calm-maple-7.cloady.io&fp=chrome&type=ws&path=%2F0175469f14317d82#US美国(ProxyGo免费节点分享)<br>vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.16.243.122:2053?encryption=none&security=tls&sni=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&fp=chrome&type=ws&host=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://ea1bee20-9217-42c0-acee-d12bf0c42602@178.17.53.154:48982?encryption=none&security=reality&sni=cdn6-91.yahoo.com&fp=chrome&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&type=xhttp&path=%2F&mode=auto#US美国(ProxyGo免费节点分享)<br>vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sladovna.russianpiwo.fun&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&sid=7a7d19880a9ee786&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&security=tls&sni=7d1a74fd.ferrin.uk&fp=chrome&type=xhttp&path=%2Fes&mode=stream-one#US美国(ProxyGo免费节点分享)<br>wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8%2FZog6ZW0c%3D@188.114.97.6:7281?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&address=172.16.0.2%2F32&mtu=1420#US美国(ProxyGo免费节点分享)<br>
+> vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.16.243.122:2053?encryption=none&security=tls&sni=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&fp=chrome&type=ws&host=j4mr-d9oj1at9i-8kuayba9kocwx7uzn.pages.dev&path=%2F#US美国(ProxyGo免费节点分享)<br>vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sladovna.russianpiwo.fun&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&sid=7a7d19880a9ee786&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&security=tls&sni=7d1a74fd.ferrin.uk&fp=chrome&type=xhttp&path=%2Fes&mode=stream-one#US美国(ProxyGo免费节点分享)<br>wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8%2FZog6ZW0c%3D@188.114.97.6:7281?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&address=172.16.0.2%2F32&mtu=1420#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
