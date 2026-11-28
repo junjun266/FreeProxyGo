@@ -1,13 +1,13 @@
 # 免费订阅
 
-## 最近成功采集（2026-11-27 09:27:58）
+## 最近成功采集（2026-11-28 10:31:30）
 
 > 点击关注[**Telegram订阅频道**](https://t.me/proxygogogo)，可第一时间获得推送，每日定时发布，免费节点订阅。
 > 
 
 ## 节点列表（这里仅展示部分节点，查看全部节点请订阅）
 
-> vless://a7595994-695d-484e-bfcb-e9fbb73cfa39@83.141.92.168:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sladovna.russianpiwo.fun&fp=chrome&pbk=kpQWnVk3fEJXfPGFsMerUoPV_ZqUJUJFRnF1FvKyhRY&sid=7a7d19880a9ee786&type=tcp&headerType=none#US美国(ProxyGo免费节点分享)<br>vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&security=tls&sni=7d1a74fd.ferrin.uk&fp=chrome&type=xhttp&path=%2Fes&mode=stream-one#US美国(ProxyGo免费节点分享)<br>wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8%2FZog6ZW0c%3D@188.114.97.6:7281?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&address=172.16.0.2%2F32&mtu=1420#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#US美国(ProxyGo免费节点分享)<br>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#US美国(ProxyGo免费节点分享)<br>
+> vless://ad295072-0049-4981-a9aa-6314c43e87e5@31.58.191.93:443?encryption=none&security=reality&sni=n4.fernstatic.com&pbk=0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo&sid=3b1a6acf74e481e7&type=xhttp&host=31.58.191.93&path=%2F&mode=auto#(ProxyGo免费节点分享)<br>wireguard://2PdIoQgtmQ11bJCJey7%2BEcIw05fiNwSz8Z60DcXw%2FXc%3D@8.6.112.175:903?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&address=172.16.0.2%2F32&mtu=1280#(ProxyGo免费节点分享)<br>vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.177:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4935e4t.de25.h1clayd.click&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&type=tcp&headerType=none&host=4935e4t.de25.h1clayd.click&path=%2F#(ProxyGo免费节点分享)<br>vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?encryption=none&security=reality&sni=38917fx.es1.h1clayd.click&fp=firefox&pbk=4mgkA2kT_Im0rkGi-fVSUU5CyF5xvMVcjA6MXBSEDAA&sid=d5501b156391e01d&type=xhttp&path=%2F#(ProxyGo免费节点分享)<br>vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es9.h1clayd.click&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none#(ProxyGo免费节点分享)<br>vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.196.149.34:443?encryption=none&security=reality&sni=35295cx.us8.h1clayd.click&fp=qq&pbk=LsaTohbE6CqCH9UbYKwIybVXG3E5Wgz_X9czqas2LAI&sid=9acff4d98e2fbcc6&type=xhttp&path=%2F1812842934d4&mode=auto#(ProxyGo免费节点分享)<br>
 > 
 
 ## 订阅地址：
